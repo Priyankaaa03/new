@@ -1,1 +1,2 @@
 my first git practical session
+This is a Git practical session.
